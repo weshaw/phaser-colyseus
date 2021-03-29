@@ -17,7 +17,7 @@ export default class Board {
     preload()
     {
         this.isoGroup = this.scene.add.group();
-        this.scene.load.image('tile', '../assets/cliff_block.png');
+        this.scene.load.image('tile', 'assets/cliff_blockQuarter.png');
         this.scene.load.scenePlugin({
           key: 'IsoPlugin',
           url: IsoPlugin,

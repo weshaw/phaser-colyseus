@@ -2,7 +2,6 @@ import Phaser from 'phaser'
 import * as Colyseus from 'colyseus.js';
 import Board from '../../modules/Board';
 
-
 export default class MainScene extends Phaser.Scene
 {
     private client!: Colyseus.Client;
