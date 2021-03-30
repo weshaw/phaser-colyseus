@@ -16,7 +16,7 @@ if time based a season could be a real time day?
 - anex nearby villages
 
 ### Overview - Brainstorm
-- City is one screen
+- City is one screen (Isometric grid?)
     - Expand city area by improving surrounding land (level 1, 2, 3 limited)
     - Buildings
         - Housing - House population
@@ -38,7 +38,7 @@ if time based a season could be a real time day?
     - Walls - can be upgraded to raise city defense
     - Keep/Towncenter - can be upgraded to raise city defense and happiness rate
 
-- Region view you can see other Cities/Towns in the area
+- Region view you can see other Cities/Towns in the area (top down 2d grid)
     - Clicking on a city or town will bring up information you know about it
     - Double clicking will bring you to the City view if you own it
     - resource nodes will be spread out on the region view
